@@ -1,4 +1,4 @@
-# APBD Task 2 - University Equipment Rental System
+ University Equipment Rental System
 
 ## How to Run
 
